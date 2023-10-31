@@ -1,0 +1,11 @@
+{
+ "author": "Joshua Bloch",
+ "bookTitle": "Effective Java",
+ "pages": 464,
+ "newBook": true,
+ "bookChapters":[
+  "ferst",
+  "second",
+  "third"  
+  ]
+}
